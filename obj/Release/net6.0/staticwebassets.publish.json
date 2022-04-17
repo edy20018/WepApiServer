@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "a9UXOR/8mxrio6qyJixh5320XhsPiMRjLYgdByyntrw=",
+  "Source": "WepApiServer",
+  "BasePath": "_content/WepApiServer",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WepApiServer\\wwwroot",
+      "Source": "WepApiServer",
+      "ContentRoot": "D:\\WebApi\\WepApiServer\\wwwroot\\",
+      "BasePath": "_content/WepApiServer",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\WebApi\\WepApiServer\\wwwroot\\versions\\phonon.log",
+      "SourceId": "WepApiServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\WebApi\\WepApiServer\\wwwroot\\",
+      "BasePath": "_content/WepApiServer",
+      "RelativePath": "versions/phonon.log",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\versions\\phonon.log"
+    },
+    {
+      "Identity": "D:\\WebApi\\WepApiServer\\wwwroot\\versions\\Postman.exe",
+      "SourceId": "WepApiServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\WebApi\\WepApiServer\\wwwroot\\",
+      "BasePath": "_content/WepApiServer",
+      "RelativePath": "versions/Postman.exe",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\versions\\Postman.exe"
+    },
+    {
+      "Identity": "D:\\WebApi\\WepApiServer\\wwwroot\\versions\\Source.cpp",
+      "SourceId": "WepApiServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\WebApi\\WepApiServer\\wwwroot\\",
+      "BasePath": "_content/WepApiServer",
+      "RelativePath": "versions/Source.cpp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\versions\\Source.cpp"
+    }
+  ]
+}
